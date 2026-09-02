@@ -1,3 +1,4 @@
 print("Lab 1: Version Control")
-print("Author: [YOUR NAME]") # <--- REPLACE WITH YOUR NAME
-print("Student ID: TUPM-00-1234") # <--- REPLACE WITH YOUR ID
+print("Author: Ehra Nicole Apon")
+print("Student ID: TUPM-26-1876")
+print("Class Section: [YOUR SECTION]")
