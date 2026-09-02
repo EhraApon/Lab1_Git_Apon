@@ -1,5 +1,5 @@
 print("Lab 1: Version Control")
 print("Author: Ehra Nicole Apon")
 print("Student ID: TUPM-26-1876")
-print("Class Section: [YOUR SECTION]")
+print("Class Section: BSECE-1A")
 print("Login Feature Enabled")
