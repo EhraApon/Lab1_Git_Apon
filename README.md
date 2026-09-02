@@ -1,2 +1,2 @@
 # Lab 1 Activity
-This repository belongs to [Your Name].
+This repository belongs to Ehra Nicole Apon.
